@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fbcfe8,100:f472b6&height=200&section=header&text=Goudjil%20Malak%20Ritadj&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20|%20CS%20Student&descSize=18&descColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fbcfe8,100:db2777&height=200&section=header&text=Goudjil%20Malak%20Ritadj&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20|%20CS%20Student&descSize=18&descColor=ffffff"/>
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
     <img src="https://img.shields.io/badge/💼_LinkedIn-db2777?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/Malak-Ritadj">
     <img src="https://img.shields.io/badge/💻_GitHub-db2777?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
@@ -55,14 +55,14 @@ I am **Malak**, a passionate Full-Stack Developer and Computer Science student b
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=rose_pine&hide_border=true&bg_color=fdf2f8&title_color=db2777&icon_color=db2777&text_color=831843" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=rose_pine&hide_border=true&bg_color=fdf2f8&title_color=db2777&text_color=831843" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Malak-Ritadj&show_icons=true&theme=rose_pine&hide_border=true&bg_color=fdf2f8&title_color=db2777&icon_color=db2777&text_color=831843" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malak-Ritadj&layout=compact&theme=rose_pine&hide_border=true&bg_color=fdf2f8&title_color=db2777&text_color=831843" width="49%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=rose_pine&hide_border=true&background=fdf2f8&ring=db2777&fire=db2777&currStreakLabel=db2777" width="80%" />
+  <img src="https://streak-stats.demolab.com/?user=Malak-Ritadj&theme=rose_pine&hide_border=true&background=fdf2f8&ring=db2777&fire=db2777&currStreakLabel=db2777" width="80%" />
 </div>
 
 ---
@@ -70,7 +70,7 @@ I am **Malak**, a passionate Full-Stack Developer and Computer Science student b
 ## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=4&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Malak-Ritadj&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=4&column=4" />
 </div>
 
 ---
@@ -78,7 +78,7 @@ I am **Malak**, a passionate Full-Stack Developer and Computer Science student b
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react&hide_border=true&bg_color=fdf2f8&color=db2777&line=db2777&point=f472b6" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Malak-Ritadj&theme=react&hide_border=true&bg_color=fdf2f8&color=db2777&line=db2777&point=f472b6" width="100%" />
 </div>
 
 ---
@@ -93,7 +93,7 @@ I am **Malak**, a passionate Full-Stack Developer and Computer Science student b
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=db2777&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Malak-Ritadj&label=Profile%20Views&color=db2777&style=flat-square" alt="Profile Views" />
   <br/><br/>
   <sub>Built with 🤍 and ☕ by <b>Goudjil Malak Ritadj</b></sub>
 </p>
