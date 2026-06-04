@@ -1,97 +1,116 @@
-<h1 align="center">Hi 👋, I'm Goudjil Malak Ritadj</h1>
-<h3 align="center">Full-Stack Developer | Computer Science Student | Passionate About Building Modern Web Applications</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header"/>
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Backend+%26+Frontend+Developer;React+%7C+Node.js+%7C+MongoDB;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+Modern+Web+Applications;React+%7C+Node.js+%7C+MongoDB;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🚀 About Me
+### 👨‍💻 About Me
 
-- 🎓 Computer Science Student from Algeria
-- 💻 Passionate about Full-Stack Web Development
-- 🌱 Currently improving my skills in **React, Node.js, Express.js, MongoDB, Docker, and Cloud Technologies**
-- 🔍 Interested in Software Engineering, Web Applications, and Database Systems
-- 📫 Reach me at: **malakritadj.goudjil@etu.univ-batna2.dz**
+I am a passionate **Full-Stack Developer** and **Computer Science student** based in Algeria. I love building scalable, efficient, and user-friendly web applications. I am constantly exploring new technologies and looking for opportunities to contribute to impactful projects.
+
+- 🎓 Currently studying **Computer Science** at University of Batna 2.
+- 💻 Focused on **MERN Stack** and **Backend Development** (Java, C).
+- 🌱 Currently diving deep into **Docker**, **Cloud Technologies**, and **System Design**.
+- 💬 Ask me about **Web Development, React, Node.js, and Databases**.
+- 📫 How to reach me: **malakritadj.goudjil@etu.univ-batna2.dz**
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Technologies & Tools
 
-### Frontend
-<p>
+<p align="center">
+  <b>🎨 Frontend</b><br>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
 </p>
 
-### Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,java,c" />
+<p align="center">
+  <b>⚙️ Backend & Languages</b><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,java,c,express" />
 </p>
 
-### Databases
-<p>
+<p align="center">
+  <b>🗄️ Databases</b><br>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-### Tools & Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=git,docker,postman" />
+<p align="center">
+  <b>🛠️ Tools & DevOps</b><br>
+  <img src="https://skillicons.dev/icons?i=git,docker,postman,vscode,idea,github" />
 </p>
 
 ---
 
-## 📊 GitHub Statistics
+### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=38BDF8" width="380" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" width="600" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=-1" />
 </p>
 
 ---
 
-## 🌟 Featured Skills
+### 📈 Contribution Graph
 
-✔ Responsive Web Design  
-✔ REST API Development  
-✔ Database Design & Management  
-✔ Full-Stack Web Applications  
-✔ Version Control with Git & GitHub  
-✔ Containerization with Docker  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF" width="100%" />
+</p>
 
 ---
 
-## 🎯 Current Goals
+### 🏆 Featured Skills
 
-- Build scalable full-stack applications
-- Improve software architecture skills
-- Learn cloud deployment and DevOps practices
-- Contribute to open-source projects
+- 💡 **Problem Solving:** Crafting efficient algorithms and optimizing code performance.
+- 🌐 **Responsive Design:** Building mobile-first, accessible, and beautiful UIs.
+- 🔌 **REST APIs:** Designing robust, scalable, and secure backend APIs.
+- 🗄️ **Database Management:** Structuring and managing relational and NoSQL databases.
 
 ---
 
-## 📫 Connect With Me
+### 🎯 Current Goals
 
-<p align="left">
-<a href="mailto:malakritadj.goudjil@etu.univ-batna2.dz">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+- 🚀 Build scalable full-stack applications with modern architectures.
+- ☁️ Learn cloud deployment (AWS/Azure) and advanced DevOps practices.
+- 🤝 Contribute to open-source projects and collaborate with the community.
+- 📚 Deepen my knowledge in System Design and Microservices.
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+---
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+### 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:malakritadj.goudjil@etu.univ-batna2.dz">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>"Code, Learn, Build, Improve, Repeat."</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+</p>
+
+<p align="center">
+  <i>"First, solve the problem. Then, write the code." – John Johnson</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
