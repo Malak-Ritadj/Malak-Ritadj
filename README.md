@@ -1,116 +1,114 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header"/>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:16213e&height=200&section=header&text=Goudjil%20Malak%20Ritadj&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+Modern+Web+Applications;React+%7C+Node.js+%7C+MongoDB;Always+Learning+New+Technologies" alt="Typing SVG" />
-</p>
-
----
-
-### 👨‍💻 About Me
-
-I am a passionate **Full-Stack Developer** and **Computer Science student** based in Algeria. I love building scalable, efficient, and user-friendly web applications. I am constantly exploring new technologies and looking for opportunities to contribute to impactful projects.
-
-- 🎓 Currently studying **Computer Science** at University of Batna 2.
-- 💻 Focused on **MERN Stack** and **Backend Development** (Java, C).
-- 🌱 Currently diving deep into **Docker**, **Cloud Technologies**, and **System Design**.
-- 💬 Ask me about **Web Development, React, Node.js, and Databases**.
-- 📫 How to reach me: **malakritadj.goudjil@etu.univ-batna2.dz**
-
----
-
-### 🛠️ Technologies & Tools
-
-<p align="center">
-  <b>🎨 Frontend</b><br>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
-</p>
-
-<p align="center">
-  <b>⚙️ Backend & Languages</b><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,java,c,express" />
-</p>
-
-<p align="center">
-  <b>🗄️ Databases</b><br>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-<p align="center">
-  <b>🛠️ Tools & DevOps</b><br>
-  <img src="https://skillicons.dev/icons?i=git,docker,postman,vscode,idea,github" />
-</p>
-
----
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=38BDF8" width="380" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" width="600" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=-1" />
-</p>
-
----
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF" width="100%" />
-</p>
-
----
-
-### 🏆 Featured Skills
-
-- 💡 **Problem Solving:** Crafting efficient algorithms and optimizing code performance.
-- 🌐 **Responsive Design:** Building mobile-first, accessible, and beautiful UIs.
-- 🔌 **REST APIs:** Designing robust, scalable, and secure backend APIs.
-- 🗄️ **Database Management:** Structuring and managing relational and NoSQL databases.
-
----
-
-### 🎯 Current Goals
-
-- 🚀 Build scalable full-stack applications with modern architectures.
-- ☁️ Learn cloud deployment (AWS/Azure) and advanced DevOps practices.
-- 🤝 Contribute to open-source projects and collaborate with the community.
-- 📚 Deepen my knowledge in System Design and Microservices.
-
----
-
-### 📫 Connect With Me
+<h3 align="center">Full-Stack Developer | CS Student | Tech Enthusiast</h3>
 
 <p align="center">
   <a href="mailto:malakritadj.goudjil@etu.univ-batna2.dz">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
-</p>
+## 👋 Hello World!
+
+I'm **Malak**, a Computer Science student from Algeria with a passion for building robust web applications. I bridge the gap between creative frontend design and logical backend architecture.
+
+> *"Simplicity is the soul of efficiency."*
+
+### 🚀 What I Do
+- 🎓 **Student:** Pursuing my degree in Computer Science at University of Batna 2.
+- 💻 **Developer:** Building full-stack apps using the MERN stack and Java.
+- 🌱 **Learner:** Currently exploring Docker, Cloud Deployment, and System Architecture.
+- 🤝 **Collaborator:** Open to contributing to open-source and team projects.
+
+---
+
+## 🛠️ Tech Stack
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" />
+      <br>Tailwind
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <i>"First, solve the problem. Then, write the code." – John Johnson</i>
+  <img src="https://skillicons.dev/icons?i=html,css,js,express,mysql,c,git,postman,vscode" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=bb86fc&icon_color=bb86fc" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=bb86fc" width="45%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0D1117&ring=bb86fc&fire=bb86fc&currStreakLabel=bb86fc" width="80%" />
+</div>
+
+---
+
+## 🏆 Achievements & Activity
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=4" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&bg_color=0D1117&color=bb86fc&line=bb86fc&point=ffffff" width="100%" />
+</div>
+
+---
+
+## 🎯 Current Focus
+
+- [ ] Mastering **Docker** containerization workflows.
+- [ ] Building a scalable **REST API** with Express & MongoDB.
+- [ ] Learning **AWS** basics for cloud deployment.
+- [ ] Improving **Algorithmic Problem Solving** skills.
+
+---
+
+<div align="center">
+  <sub>Built with ❤️ by Goudjil Malak Ritadj</sub>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</div>
