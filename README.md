@@ -1,146 +1,61 @@
-<div align="center">
-
-# Malak Ritadj Goudjil
-
-### Full-Stack Developer • Computer Science Student • Tech Enthusiast
-
-<p>
-Building modern web applications with clean code, scalable architectures, and great user experiences.
-</p>
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Software+Engineering+Student;Always+Building+and+Learning" />
-
-</div>
-
----
-
-## ✦ Profile
-
-I'm a Computer Science student passionate about creating digital solutions that combine functionality, performance, and design.
-
-My interests include:
-
-- Frontend Development
-- Backend Development
-- Database Design
-- REST API Development
-- Software Architecture
-- Modern Web Technologies
-
----
-
-## ⚡ Tech Stack
-
-<table>
-<tr>
-<td valign="top">
-
-### Languages
-
-- JavaScript
-- Java
-- C
-
-</td>
-
-<td valign="top">
-
-### Frontend
-
-- HTML5
-- CSS3
-- React
-- Tailwind CSS
-
-</td>
-</tr>
-
-<tr>
-<td valign="top">
-
-### Backend
-
-- Node.js
-- Express.js
-
-</td>
-
-<td valign="top">
-
-### Databases
-
-- MongoDB
-- MySQL
-- Oracle
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠 Development Tools
+# Goudjil Malak Ritadj
+### Full-Stack Developer | Computer Science Student
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,mysql,java,c,git,docker,postman,tailwind,vscode,github" />
+  <a href="mailto:malakritadj.goudjil@etu.univ-batna2.dz"><b>📧 Email</b></a> • 
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><b>💼 LinkedIn</b></a> • 
+  <a href="https://github.com/YOUR_USERNAME"><b>💻 GitHub</b></a>
 </p>
 
 ---
 
-## 📈 GitHub Activity
+## 👨‍💻 Professional Summary
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true"/>
-
-</div>
+Dedicated **Full-Stack Developer** and **Computer Science student** with a strong foundation in software engineering principles. Specialized in building scalable web applications using the **MERN stack** and **Java**. Passionate about writing clean, maintainable code, optimizing database performance, and implementing robust backend architectures. Currently seeking opportunities to apply technical skills in a challenging professional environment.
 
 ---
 
-## 🎯 2026 Goals
+## 🛠️ Technical Skills
 
-- Build impactful full-stack projects
-- Strengthen software engineering skills
-- Explore cloud technologies
-- Contribute to open-source projects
-- Create a professional developer portfolio
-
----
-
-## 📚 Currently Learning
-
-```txt
-✓ Advanced React
-✓ Backend Architecture
-✓ API Security
-✓ Docker
-✓ System Design Fundamentals
-```
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | React.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Bootstrap |
+| **Backend** | Node.js, Express.js, Java, C, RESTful API Design |
+| **Database** | MongoDB, MySQL, Database Schema Design & Optimization |
+| **DevOps & Tools** | Git/GitHub, Docker, Postman, Linux, VS Code, IntelliJ IDEA |
 
 ---
 
-## 🤝 Let's Connect
+## 📊 Engineering Metrics
 
 <p align="center">
-<a href="mailto:malakritadj.goudjil@etu.univ-batna2.dz">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true&title_color=000000&icon_color=000000&text_color=333333" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true&title_color=000000&text_color=333333" width="49%" />
+</p>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-View_Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=default&hide_border=true&background=ffffff&ring=000000&fire=000000&currStreakLabel=000000" width="80%" />
 </p>
 
 ---
 
-<div align="center">
+## 🚀 Current Focus & Roadmap
 
-### "Great software is built one thoughtful line of code at a time."
+*   **System Architecture:** Deepening knowledge of Microservices and Scalable System Design.
+*   **Cloud Native Development:** Mastering Docker containerization and AWS/Azure deployment pipelines.
+*   **Code Quality:** Implementing strict testing protocols (Jest/Mocha) and CI/CD best practices.
+*   **Open Source:** Actively contributing to community-driven projects to improve collaborative coding skills.
 
-</div>
+---
+
+## 🎓 Education
+
+**University of Batna 2** | Algeria
+*Bachelor's Degree in Computer Science*
+*   *Focus:* Software Engineering, Database Systems, Web Technologies.
+
+---
+
+<p align="center">
+  <sub>Last updated: June 2026</sub>
+</p>
