@@ -55,8 +55,9 @@ I am **Malak**, a passionate Full-Stack Developer and Computer Science student b
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Malak-Ritadj&show_icons=true&theme=rose_pine&hide_border=true&bg_color=fdf2f8&title_color=db2777&icon_color=db2777&text_color=831843" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malak-Ritadj&layout=compact&theme=rose_pine&hide_border=true&bg_color=fdf2f8&title_color=db2777&text_color=831843" width="49%" />
+  <!-- Added &cache_seconds=0 to force refresh -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Malak-Ritadj&show_icons=true&theme=rose_pine&hide_border=true&bg_color=fdf2f8&title_color=db2777&icon_color=db2777&text_color=831843&cache_seconds=0" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malak-Ritadj&layout=compact&theme=rose_pine&hide_border=true&bg_color=fdf2f8&title_color=db2777&text_color=831843&cache_seconds=0" width="49%" />
 </div>
 
 <br/>
@@ -70,7 +71,8 @@ I am **Malak**, a passionate Full-Stack Developer and Computer Science student b
 ## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Malak-Ritadj&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=4&column=4" />
+  <!-- Changed theme to 'onedark' which is more stable for new accounts -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Malak-Ritadj&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=4" />
 </div>
 
 ---
