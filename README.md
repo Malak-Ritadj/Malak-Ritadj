@@ -1,105 +1,81 @@
+<h1 align="center">👋 Hello, I'm Goudjil Malak Ritadj</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:121212,100:0a0a0a&height=220&section=header&text=Goudjil%20Malak%20Ritadj&fontSize=45&fontColor=e0bfb8&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20|%20CS%20Student&descSize=18&descColor=b76e79"/>
+  <b>Full-Stack Developer • Computer Science Student • Problem Solver</b>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=400&size=22&pause=1500&color=e0bfb8&center=true&vCenter=true&width=600&lines=Crafting+Digital+Experiences+with+Elegance;Full-Stack+Development+%7C+Clean+Code;Passionate+about+Design+%26+Technology" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="mailto:malakritadj.goudjil@etu.univ-batna2.dz">
-    <img src="https://img.shields.io/badge/✉️_Email-1a1a1a?style=for-the-badge&logo=gmail&logoColor=e0bfb8" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=e0bfb8" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/💻_GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=e0bfb8" alt="GitHub"/>
-  </a>
+  Passionate about building efficient, scalable, and user-friendly applications.
 </p>
 
 ---
 
-## 🥂 About Me
+## 👩‍💻 About Me
 
-> *"Elegance is not standing out, but being remembered." – Giorgio Armani*
+I am a Computer Science student from Algeria with a strong interest in software development and modern web technologies. I enjoy transforming ideas into practical applications and continuously expanding my technical knowledge through projects and learning.
 
-Welcome to my digital space. I am **Malak**, a dedicated Full-Stack Developer and Computer Science student from Algeria. I specialize in architecting robust backend systems and designing intuitive, aesthetically pleasing frontend interfaces. I believe that great software is a perfect harmony of logic and art.
-
-- 🎓 **Academic:** Computer Science Student at University of Batna 2.
-- 💻 **Expertise:** MERN Stack, RESTful APIs, and Object-Oriented Programming (Java, C).
-- 🌱 **Exploring:** Cloud Architecture, Docker Containerization, and Advanced UI/UX Principles.
-- 🕊️ **Philosophy:** Writing clean, maintainable code that stands the test of time.
+- 🔭 Currently working on personal and academic projects
+- 🌱 Learning advanced Full-Stack Development concepts
+- 💡 Interested in Web Development, Databases, and Software Engineering
+- 🤝 Open to collaboration on interesting projects
+- 📫 Contact: **malakritadj.goudjil@etu.univ-batna2.dz**
 
 ---
 
-## 🗝️ Technical Proficiency
+## 🚀 Technologies & Tools
+
+### Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend Development
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <b>🎨 Frontend & Design</b><br/>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark" height="180"/>
 </p>
 
-<p align="center">
-  <b>⚙️ Backend & Logic</b><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java,c,python&theme=dark" />
-</p>
+---
 
-<p align="center">
-  <b>🗄️ Data & Infrastructure</b><br/>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,docker,postman,linux&theme=dark" />
-</p>
+## 🎯 Professional Goals
+
+- Develop scalable full-stack applications
+- Master software architecture and design patterns
+- Contribute to open-source projects
+- Gain experience in cloud and DevOps technologies
 
 ---
 
-## 📊 Analytics & Insights
+## 📫 Let's Connect
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=e0bfb8&icon_color=b76e79&text_color=8b949e" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=e0bfb8&text_color=8b949e" width="49%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0d1117&ring=b76e79&fire=b76e79&currStreakLabel=e0bfb8" width="80%" />
-</div>
-
----
-
-## 🏆 Milestones
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=4" />
-</div>
-
----
-
-## 📈 Development Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&bg_color=0d1117&color=e0bfb8&line=b76e79&point=e0bfb8" width="100%" />
-  <br/>
-  <sub><i>Excellence is a continuous journey. ✨</i></sub>
-</div>
-
----
-
-## 🎯 Vision & Goals
-
-- [ ] 🏗️ Architect scalable, enterprise-grade **Microservices**.
-- [ ] ☁️ Master **Cloud Native** deployments and CI/CD pipelines.
-- [ ] 🤍 Contribute meaningfully to **Open Source** initiatives.
-- [ ] 📚 Deepen my expertise in **System Design** and advanced algorithms.
+- 📧 Email: **malakritadj.goudjil@etu.univ-batna2.dz**
+- 💼 LinkedIn: **Add your LinkedIn profile**
+- 🌐 Portfolio: **Add your portfolio website**
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=b76e79&style=flat-square" alt="Profile Views" />
-  <br/><br/>
-  <sub>Crafted with 🤍 and precision by <b>Goudjil Malak Ritadj</b></sub>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:121212&height=120&section=footer"/>
+  <i>“Every great developer starts with curiosity and grows through continuous learning.”</i>
 </p>
